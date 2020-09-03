@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practical Task</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="ok">Ok</string>
+    <string name="no_internet_connection">Please check your internet connections!!</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email_validation_msg">Please enter username</string>
+    <string name="password_validation_msg">Please enter password</string>
+    <string name="username">Username</string>
+    <string name="login_success_mess">Save data successfully</string>
+
+</resources>
